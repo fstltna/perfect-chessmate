@@ -1,0 +1,16 @@
+
+
+
+
+			IMPORTANT !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+			
+			Unzip In C:\Games\Chess 2000 {Default}
+			Run Chess.Reg 
+			Run Chess.exe  {In Chess 2000 Dir} To Play 
+			=================
+
+
+
+						Enjoy!!!
+							Plus2000
